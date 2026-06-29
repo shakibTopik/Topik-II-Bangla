@@ -1,0 +1,14 @@
+{
+  "id": 1,
+  "level": 3,
+  "question": "Sample Question",
+  "options": [
+    "Option 1",
+    "Option 2",
+    "Option 3",
+    "Option 4"
+  ],
+  "answer": 2,
+  "explanation_bn": "এটি শুধু একটি নমুনা।",
+  "translation_bn": "এটি বাংলায় অনুবাদ।"
+}
